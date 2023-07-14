@@ -30,13 +30,13 @@ If the user chooses prime membership, she/he can see the offers first and specia
 ## Diagrams :
    - Use Case Diagram
 
+     ![Use Case](https://github.com/YasminHamada/Furniture_Store_System/assets/92521186/ba4fab7d-423c-4e75-b5e4-35fb68e19c06)
 
-      ![LastUpdated in Use Case](https://github.com/YasminHamada/Furniture_Store_System/assets/92521186/a2c6e598-fa10-41be-a40d-0de153a5d476)
 
    - Sequence Diagram for **Mange Order**  Use Case
 
-     
-     ![Sequence](https://github.com/YasminHamada/Furniture_Store_System/assets/92521186/d0173797-b9cd-4c66-a143-694555b9f764)
+     ![Sequence](https://github.com/YasminHamada/Furniture_Store_System/assets/92521186/fedb219d-810d-47cf-9482-f1a4a8cffb05)
+
 
 
 
